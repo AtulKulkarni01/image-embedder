@@ -1,0 +1,6 @@
+print("thos is hello")
+print("thos is hello")
+print("thos is hello")
+print("thos is hello")
+print("thos is hello")
+print("thos is hello")
